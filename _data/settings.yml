@@ -7,11 +7,13 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'History',  url: 'facts'}
-- {name: 'Film', url: 'resources'}
-- {name: 'Shipmates',       url: 'sample-posts'}
-- {name: 'Tech',      url: 'documentation'}
-- {name: 'Legacy',              url: 'about'}
+- {name: 'History',  url: 'wwii-history'}
+- {name: 'Photography', url: 'photography'}
+- {name: 'Film', url: 'color-film'}
+- {name: 'Shipmates', url: 'the-crew'}
+- {name: 'Tech', url: 'the-ship'}
+- {name: 'Legacy', url: 'legacy'}
+- {name: 'Voices', url: 'voices'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

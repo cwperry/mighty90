@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Color Film Footage"
-author: "Brent Jones"
+title: Color Film Footage
+description: 40 minutes of silent color footage shot from the decks of USS ASTORIA during Okinawa operations.
+author: Brent Jones
 categories: documentation
 tags: [documentation,sample]
 image: vc_merge_700x.jpg
