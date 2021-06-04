@@ -1,4 +1,5 @@
 # Site Build Settings
+hide_post_date: true
 
 # jekyll-paginate configuration
 paginate:            8
