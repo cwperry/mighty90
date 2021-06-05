@@ -1,6 +1,7 @@
 ---
 layout: post
 title: USS Astoria CL-90
+description: Preserving the history of the light cruiser Astoria and honoring the men who served aboard her.
 author: Brent Jones
 categories: documentation
 tags: [documentation,sample]
