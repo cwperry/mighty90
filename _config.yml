@@ -18,3 +18,6 @@ author:              "Brent E. Jones"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+header-image-flag: flag-header.png
+header-image-ship: bg_36ki.png
