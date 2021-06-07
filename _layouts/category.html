@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+<div>{{ content }}</div>
 
 {% for post in site.posts %}
-  {% if post.categories contains page.category %}
+  {% if post.categories contains page.display-category %}
     {% include featured-post.html %}
   {% endif %}
 {% endfor %}
