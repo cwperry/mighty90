@@ -1,6 +1,6 @@
 .site-header {
   min-height: 56px;
-  width: $container-width;
+  width: 95vw;
   position: fixed;
   background-color: $brand-background;
     color: $brand-color;
@@ -28,11 +28,13 @@
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
-.site-header-images > .ship {
-  min-height: 170px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100% auto;
+.site-header-images img {
+  // min-height: 165px;
+  // background-position: center;
+  // background-repeat: no-repeat;
+  // background-size: 100% auto;
+  width: 100%;
+  height: auto;
 }
 .site-title {
   font-size: 36px;

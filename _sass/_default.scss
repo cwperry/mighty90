@@ -19,16 +19,104 @@
 .content-wrapper h1 {
   margin: 20px 0px 5px;
 }
-@media (max-width: $container-width) {
+// @media (max-width: $container-width) {
+//   .container {
+//     width: 95vw;
+//     margin-left: auto;
+//     margin-right: auto;
+//   }
+//   .content-wrapper {
+//     padding-top: $header-thickness+12em;
+//     margin: auto;
+//     display: block;
+//     width: 95vw;
+//   }
+// }
+// @media (max-width: $phone-width) {
+//   .container {
+//     width: 95vw;
+//     margin-left: auto;
+//     margin-right: auto;
+//   }
+//   .content-wrapper {
+//     padding-top: 17em;
+//     margin: auto;
+//     display: block;
+//     width: 95vw;
+//   }
+// }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 580px) {
   .container {
     width: 95vw;
     margin-left: auto;
     margin-right: auto;
   }
   .content-wrapper {
-    padding-top: $header-thickness+12em;
+    padding-top: 10em;
     margin: auto;
     display: block;
     width: 95vw;
   }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 580px) {
+  .container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content-wrapper {
+    padding-top: 11em;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 680px) {
+  .container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content-wrapper {
+    padding-top: 13em;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 870px) {
+  .container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content-wrapper {
+    padding-top: 15em;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1070px) {
+  .container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content-wrapper {
+    padding-top: 17em;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }    
 }
