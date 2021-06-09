@@ -1,6 +1,6 @@
-<!-- {% assign image = site.data.images[include.image] %} -->
+{% assign image = site.data.images[include.image] %}
 <div class="image-container">
-    <img src="{{ site.github.url }}/assets/img/{{ include.image.image-url }}" />
-    <div>{{ include.image.caption }}</div>
-    <div class="image-attribution">- {{ include.image.attribution }}</div>
+    <img src="{{ site.github.url }}/assets/img/{{ image.image-url }}" />
+    <div>{{ image.caption }}</div>
+    <div class="image-attribution">- {{ image.attribution }}</div>
 </div>
