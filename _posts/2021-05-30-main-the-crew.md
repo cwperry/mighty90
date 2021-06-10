@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ship's Crew Complement
+slug: the-crew
 author: Brent Jones
 description: Images and stories of the officers and men who served aboard USS ASTORIA CL-90.
 categories: main

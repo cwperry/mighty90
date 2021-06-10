@@ -2,6 +2,7 @@
 layout: post
 title: Voices of the Pacific War
 description: Images and stories from friends and family involved in this Pacific War commemoration project.
+slug: voices
 author: Brent Jones
 categories: main
 tags: [documentation,sample]
