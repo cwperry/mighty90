@@ -89,3 +89,81 @@ officers:
   - name: Walters Jr., William R. 
     info: L Div Junior Officer
     image-url: crew/walters_jr_william_r_l-divjo_170x_dchk.jpg  
+
+enlisted:
+  - name: Allen, Clancy 
+    info: K Division
+    image-url: crew/allen_clancy_170x_5pwl.jpg 
+
+  - name: Allen, Jimmy 
+    info: Bosun's Mate
+    image-url: crew/1945_07_22_allen_jimmy_hs_4x3_170x_m8xm.jpg 
+
+  - name: Aman, Joseph 
+    info: Joey Fubar cartoonist
+    image-url: crew/aman_joe_170x_lg6n.jpg 
+
+  - name: Arrighi, John L. 
+    info: 7th Division USMC
+    bio-url: bios/arrighi-john
+    image-url: crew/1945_06_29_07_7th_div_remaster_arrighi_cu_170x_qpgp.jpg 
+
+  - name: Baird, Barney 
+    info: E Division
+    image-url: crew/baird_barney_170x_u0p0.jpg    
+
+  - name: Blodgett, Herbert 
+    info: A, M Division
+    image-url: crew/1944_circa_herb_blodgett_4x3_170x.jpg
+  
+  - name: Breen, Jeremiah J. 
+    info: E Division
+    bio-url: bios/breen-jeremiah
+    image-url: crew/breen-jeremiah.jpg  
+
+  - name: Brendle, Ike 
+    info: 7th Division USMC
+    bio-url: bios/brendle-ike
+    image-url: crew/brendle-ike.jpg  
+
+  - name: Bullard, Paul 
+    info: 6th Division
+    bio-url: bios/bullard-paul
+    image-url: crew/bullard_paul_170x_tm0k.jpg   
+
+  - name: Chatcuff, Edwin I. 
+    info: Chief Storekeeper
+    image-url: crew/chatcuff_edwin_i_csk_170x.jpg
+
+  - name: Coffaro, Andrew 
+    info: 2nd Division
+    bio-url: bios/coffaro-andrew
+    image-url: crew/andy_coffaro_170x_gwg8.jpg
+
+  - name: DeScisciolo, Angelo 
+    info: F Division
+    bio-url: bios/descisciolo-angelo
+    image-url: crew/angelo_descisciolo_170x_7dbi.jpg
+
+  - name: DiMaio, Mario J. 
+    info: 6th Division
+    bio-url: bios/dimaio-mario
+    image-url: crew/mario_j_dimaio_gdm_photo_170x.jpg
+
+  - name: Dolci, Deno
+    info: C Division
+    bio-url: bios/dolci-deno
+    image-url: crew/dolci_deno_170x_5eo3.jpg 
+
+  - name: Fleetman, Henry 
+    info: E Division
+    image-url: crew/fleetman_henry_170x.jpg
+
+  - name: Fubar, Joey
+    info: Apprentice Seaman
+    bio-url: bios/fubar-joey
+    image-url: crew/1945_09_circa_fubar_joey_170x_xib9.jpg
+
+  - name: Graffigna, John 
+    info: A Division
+    image-url: crew/graffigna_john_170x.jpg    

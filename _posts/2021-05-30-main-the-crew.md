@@ -18,3 +18,7 @@ If you are able to contribute shipmate photos, please contact Brent at [brentj@m
 ## USS ASTORIA CL-90 Officers
 
 {% include crew-grid.html type="officers" %}
+
+## USS ASTORIA CL-90 Enlisted Men
+
+{% include crew-grid.html type="enlisted" %}
