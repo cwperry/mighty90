@@ -1,0 +1,6 @@
+{% assign crewMember = include.portrait %}
+<div class="crew-container">
+    <img src="{{ site.github.url }}/assets/img/{{ crewMember.image-url }}" />
+    <div class="crew-name">{{ crewMember.name }}</div>
+    <div class="crew-info">{{ crewMember.info }}</div>
+</div>

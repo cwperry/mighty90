@@ -1,0 +1,31 @@
+command:
+  - name: George C. Dyer
+    info: 1944-1945
+    image-url: crew/capt_george_c_dyer_170x_sqj6.jpg 
+  
+  - name: William V. Hamilton
+    info: 1945-1946
+    image-url: crew/hamilton_william_v_capt_170x_dw5n.jpg   
+  
+  - name: Frank R. Walker
+    info: 1946
+    image-url: crew/1946_03_19_walker_frank_j__co_cl-90_hs_3x4_170x_ttxb.jpg   
+  
+  - name: Harry B. Jarrett
+    info: 1946-1947
+    image-url: crew/jarrett_harry_b_vadm_170x_ot3h.jpg 
+  
+  - name: William L. Hoffheins Jr.
+    info: 1947-1948
+    image-url: crew/capt_icon_3x4_ygg2_sylp.jpg 
+  
+  - name: Louis N. Miller
+    info: 1948-1949
+    image-url: crew/1951_01_lewis_n_miller_portrait_nara_80-g-424333_4x3_170x_205r.jpg
+officers:
+  - name: Armitage, Gerard T.
+    info: USMC Detachment CO
+    image-url: crew/col_gerard_t_armitage_cu_170x.jpg
+  - name: Badger, Rodney J.
+    info: 1st Lieutenant
+    image-url: crew/badger_rodney_j_170x_v7yl.jpg  

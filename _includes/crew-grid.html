@@ -1,0 +1,7 @@
+<div class="flex-grid">
+    {% for crewMember in site.data.crew[include.type] %}
+        <div class="col">
+            {% include crew-portrait.html portrait=crewMember %}
+        </div>
+    {% endfor %}
+</div>
