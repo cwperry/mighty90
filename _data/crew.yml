@@ -26,6 +26,66 @@ officers:
   - name: Armitage, Gerard T.
     info: USMC Detachment CO
     image-url: crew/col_gerard_t_armitage_cu_170x.jpg
+
   - name: Badger, Rodney J.
     info: 1st Lieutenant
     image-url: crew/badger_rodney_j_170x_v7yl.jpg  
+
+  - name: Blee, Harry J.
+    info: 3rd Division Officer
+    image-url: crew/blee_harry_j_170x.jpg  
+
+  - name: Comb, Donald O. 
+    info: V Div Aviator
+    image-url: crew/comb_donald_o_170x_eau2.jpg 
+
+  - name: Doty, Lawrence P. 
+    info: Assistant Navigator
+    image-url: crew/1944_11_ltjg_lawrence_doty_pearl_harbor_jd_4x3_170x_v3rk.jpg 
+
+  - name: Haasis, John M. 
+    info: E Div Junior Officer
+    image-url: crew/ens_haasis_john_m_170x_01j1.jpg
+
+  - name: Lisle, John 
+    info: 2nd Division Officer
+    image-url: crew/lt_lisle_john_170x_gi70.jpg 
+
+  - name: Lusk, Alpheus M. 
+    info: Ship's Chaplain
+    image-url: crew/lusk_alpheus_m_chaplain_170x_gv3f.jpg
+
+  - name: Marks, Louis D. 
+    info: Assistant 1st Lieutenant
+    image-url: crew/lusk_alpheus_m_chaplain_170x_gv3f.jpg
+
+  - name: Meneke, Kenneth E. 
+    info: Gunnery Officer
+    bio-url: bios/meneke-kenneth
+    image-url: crew/cdr_meneke_kenneth_170x_n88x.jpg 
+    
+  - name: Newman, Jack F. 
+    info: V Div Aviator
+    image-url: crew/ltjg_newman_jack_f_170x_2lan.jpg 
+
+  - name: Schmitt, John 
+    info: 5th Div Gunnery Officer
+    bio-url: bios/schmitt-john
+    image-url: crew/ens_john_schmitt_rs_photo_170x_559x.jpg    
+
+  - name: Sheehan, Joseph F. 
+    info: 4th Div Junior Officer
+    image-url: crew/ens_sheehan_joseph_f_170x_yolq.jpg
+
+  - name: Shopen, Earl R. 
+    info: 4th Division Officer
+    bio-url: bios/shopen-earl
+    image-url: crew/1946_shopen_earl_reginald_lcdr_cl-90_mt_170x.jpg   
+
+  - name: Tanner, Charles S. 
+    info: Senior Aviator
+    image-url: crew/lt_tanner_charles_170x_t7oq.jpg
+
+  - name: Walters Jr., William R. 
+    info: L Div Junior Officer
+    image-url: crew/walters_jr_william_r_l-divjo_170x_dchk.jpg  

@@ -1,6 +1,15 @@
 {% assign crewMember = include.portrait %}
+{% if crewMember.bio-url %}
+    <a href="{{ site.github.url }}{{ crewMember.bio-url }}">
+{% endif %}
 <div class="crew-container">
     <img src="{{ site.github.url }}/assets/img/{{ crewMember.image-url }}" />
     <div class="crew-name">{{ crewMember.name }}</div>
     <div class="crew-info">{{ crewMember.info }}</div>
+    {% if crewMember.bio-url %}
+        <div>Click for learn more</div>
+    {% endif %}
 </div>
+{% if crewMember.bio-url %}
+    </a>
+{% endif %}
