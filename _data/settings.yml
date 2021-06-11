@@ -14,7 +14,7 @@ menu:
 - {name: 'Tech', url: 'the-ship'}
 - {name: 'Legacy', url: 'legacy'}
 - {name: 'Voices', url: 'voices'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Contact',            url: 'contact2'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
