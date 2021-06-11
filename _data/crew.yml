@@ -166,4 +166,123 @@ enlisted:
 
   - name: Graffigna, John 
     info: A Division
-    image-url: crew/graffigna_john_170x.jpg    
+    image-url: crew/graffigna_john_170x.jpg
+
+  - name: Harbeson, Tom 
+    info: C Division
+    image-url: crew/harbeson_tom_170x.jpg
+
+  - name: Harms, Bud
+    info: C Division Chief
+    bio-url: bios/harms-bud
+    image-url: crew/harms_bud_170x_fngh.jpg 
+
+  - name: Houle, Clayton 
+    info: R Division
+    image-url: crew/houle-clayton.jpg
+
+  - name: Johnson, Jesse 
+    info: F Division
+    image-url: crew/johnson_jesse_f_170x_5xrf.jpg  
+
+  - name: Jones, Lawrence C.
+    info: E Division
+    bio-url: bios/jones-lawrence
+    image-url: crew/1943_circa_lawrence_c_jones_170x.jpg
+
+  - name: Lavin, Andrew 
+    info: F Division
+    image-url: crew/lavin_andrew_170x_7bml.jpg
+
+  - name: Lind, J. Fred
+    info: F Division
+    image-url: crew/lind_j_fred_22_ll_3x4_170x.jpg 
+
+  - name: Long, Peyton O.
+    info: 4th Division
+    image-url: crew/long_peyton_o_170x_385x.jpg
+
+  - name: Migliorisi, Anthony
+    info: C Division
+    bio-url: bios/migliorisi-anthony
+    image-url: crew/migliorisi_anthony_170x_tjsn.jpg 
+
+  - name: Moccia, Rocco
+    info: B Division
+    bio-url: bios/moccia-rocco
+    image-url: crew/moccia_rocco_170x_n2kv.jpg
+
+  - name: Moriarty, Eugene M.
+    info: M Division
+    bio-url: bios/moriarty-eugene
+    image-url: crew/moccia_rocco_170x_n2kv.jpg   
+
+  - name: Peddie, James W.
+    info: E Division
+    bio-url: bios/peddie-james
+    image-url: crew/1944_peddie_james_w_jp_170x_jypb.jpg 
+
+  - name: Peterson, Frank
+    info: L Division
+    bio-url: bios/peterson-frank
+    image-url: crew/frank_peterson_kp_photo_170x_8af1.jpg  
+
+  - name: Porter, Bernard
+    info: 2nd Division Bugler
+    image-url: crew/porter_bernard_170x_102x.jpg
+
+  - name: Rudden, Edward Jr.
+    info: S Division
+    image-url: crew/rudden-edward.jpg
+
+  - name: Sayles, Henry
+    info: Chief Bosun's Mate
+    image-url: crew/sayles_henry_170x_y78h.jpg
+
+  - name: Schnipper, Herman
+    info: Ship's Photographer
+    bio-url: bios/schnipper-herman
+    image-url: crew/herman_schnipper_170x_8cgd.jpg  
+
+  - name: Serpa, George R.
+    info: 
+    image-url: crew/serpa_george_r_170x_3u8v.jpg
+
+  - name: Snyder, John L.
+    info: 4th Division
+    bio-url: bios/snyder-john
+    image-url: crew/snyder_john_l_170x.jpg
+
+  - name: Spurrier, C. F.
+    info: Chief Bosun's Mate
+    image-url: crew/spurrier_c_f_chiefbosn_cl-90_3x4_170x_icl5.jpg
+
+  - name: Storrings, Bill
+    info: B Division Chief
+    image-url: crew/storrings_bill_1_ts_4x3_170x_g9nm.jpg 
+
+  - name: Tackett, Gene
+    info: 2nd Division
+    image-url: crew/tackett_gene_170x_ieqs.jpg 
+
+  - name: Theaker, William L.
+    info: B Division
+    bio-url: bios/theaker-william
+    image-url: crew/theaker_william_170x_2vdq.jpg  
+
+  - name: Thomson, James
+    info: F Division
+    image-url: crew/thomson_jim_170x_xg5k.jpg 
+
+  - name: Walsh, Thomas J.
+    info: B Division
+    image-url: crew/walsh_tom_170x_rm2g.jpg 
+
+  - name: Whitesell, Tommy
+    info: 4th Division
+    image-url: crew/whitesell_tommy_170x_94r7.jpg
+
+  - name: Willis, Nathaniel P.
+    info: Coxswain
+    bio-url: bios/willis-nathaniel
+    image-url: crew/willis_nathaniel_p_170x_ybfs.jpg

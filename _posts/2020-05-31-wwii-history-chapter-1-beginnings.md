@@ -17,7 +17,7 @@ With American involvement in the Second World War becoming more and more imminen
 The six Cramp Clevelands kept with the tradition of naming cruisers after U.S. cities and were to be named:
  
 |USS Miami CL-89|USS Little Rock CL-92|
-|USS Wilkes-Barre CL-1030|USS Galveston CL-93|
+|USS Wilkes-Barre CL-90|USS Galveston CL-93|
 |USS Oklahoma City CL-91|USS Youngstown CL-94|
 
 {% include image.html image='cramp-533' %}
