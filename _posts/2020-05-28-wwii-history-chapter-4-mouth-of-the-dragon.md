@@ -9,4 +9,4 @@ tags: [documentation,sample]
 image: history/shake_merge_2_700x.jpg
 ---
 
-TODO: ASTORIA CL-90 returns from her shakedown, July 1944.
+{% include image.html image="1944-07-16-leaving-paria" %}
